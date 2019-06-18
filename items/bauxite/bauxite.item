@@ -1,0 +1,26 @@
+{
+    "DisplayName": {
+        "en": "Bauxite"
+    },
+    "Description": {
+        "en": null
+    },
+    "IsLiquid": false,
+    "Color": "aeaeae",
+    "Price": 100.0,
+    "ConveyorMeshUri": null,
+    "ConveyorLength": 0.3,
+    "HeapMeshUri": null,
+    "PileResolution": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "PileMargin": [0, 0, 0],
+    "SmeltableIntoUri": null,
+    "HeatOfFusion": 0.0,
+    "PressableIntoUri": null,
+    "HeatCapacity": 0.0,
+    "GrowSpeed": 0.0,
+    "MaxPerVoxel": 1000
+}

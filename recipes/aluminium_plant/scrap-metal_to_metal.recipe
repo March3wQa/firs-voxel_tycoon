@@ -1,0 +1,12 @@
+{
+    "TargetUri": "firs-voxel_tycoon/aluminium_plane.recipetarget",
+    "Duration": 5.0,
+    "InputItems": [{
+        "Uri": "firs-voxel_tycoon/scrap-metal.item",
+        "Count": 1.0
+    }],
+    "OutputItems": [{
+        "Uri": "firs-voxel_tycoon/metal.item",
+        "Count": 1.0
+    }]
+}
